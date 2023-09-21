@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "invoice": "00001",
+        "billingDate": "2023-07-21",
+        "dueDate": "2023-12-20",
+        "supplier": 1,
+        "total": 455.64,
+        "PurchaseOrder": 2,
+        "approvalManager": 5
+    },
+    {
+        "id": "2",
+        "invoice": "00002",
+        "billingDate": "2023-08-10",
+        "dueDate": "2023-09-09",
+        "supplier": 3,
+        "total": 1020.00,
+        "PurchaseOrder": 1,
+        "approvalManager": 4
+    },
+    {
+        "id": "3",
+        "invoice": "00003",
+        "billingDate": "2023-08-15",
+        "dueDate": "2023-09-14",
+        "supplier": 2,
+        "total": 780.90,
+        "PurchaseOrder": 3,
+        "approvalManager": 1
+    },
+    {
+        "id": "4",
+        "invoice": "00004",
+        "billingDate": "2023-08-28",
+        "dueDate": "2023-09-27",
+        "supplier": 5,
+        "total": 240.00,
+        "PurchaseOrder": 4,
+        "approvalManager": 2
+    },
+    {
+        "id": "5",
+        "invoice": "00005",
+        "billingDate": "2023-09-05",
+        "dueDate": "2023-10-05",
+        "supplier": 4,
+        "total": 1500.75,
+        "PurchaseOrder": 5,
+        "approvalManager": 3
+    }
+]

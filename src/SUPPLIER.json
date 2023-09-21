@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "empresa": "Proveedor A",
+        "nombre": "John Doe",
+        "telefono": "123-456-7890",
+        "correo": "john.doe@proveedora.com",
+        "calle": "Calle Principal 123",
+        "ciudad": "Ciudad Ejemplo",
+        "estado": "Estado Ejemplo",
+        "codigo_postal": "12345",
+        "rfc": "XYZ78901XXEZ",
+        "registro_fiscal": "12345",
+        "regimen_fiscal": "Régimen General"
+    },
+    {
+        "id": 2,
+        "empresa": "Proveedor B",    
+        "nombre": "Jane Smith",
+        "telefono": "987-654-3210",
+        "correo": "jane.smith@proveedora.com",
+        "calle": "Avenida Secundaria 456",
+        "ciudad": "Otra Ciudad",
+        "estado": "Otro Estado",
+        "codigo_postal": "54321",
+        "rfc": "XYZ789012UVW",
+        "registro_fiscal": "54321",
+        "regimen_fiscal": "Régimen Simplificado"
+    },
+    {
+        "id": 3,
+        "empresa": "Proveedor C",
+        "nombre": "Carlos García",
+        "telefono": "555-123-4567",
+        "correo": "carlos.garcia@proveedora.com",
+        "calle": "Avenida Principal 789",
+        "ciudad": "Ciudad Nueva",
+        "estado": "Estado Nuevo",
+        "codigo_postal": "67890",
+        "rfc": "LMN456789OPQ",
+        "registro_fiscal": "98765",
+        "regimen_fiscal": "Régimen General"
+    },
+    {
+        "id": 4,
+        "empresa": "Proveedor D",
+        "nombre": "Ana Rodríguez",
+        "telefono": "111-222-3333",
+        "correo": "ana.rodriguez@proveedora.com",
+        "calle": "Calle Secundaria 321",
+        "ciudad": "Otra Ciudad",
+        "estado": "Otro Estado",
+        "codigo_postal": "12345",
+        "rfc": "DEF789012GHI",
+        "registro_fiscal": "54321",
+        "regimen_fiscal": "Régimen Simplificado"
+    },
+    {
+        "id": 5,
+        "empresa": "Proveedor E",
+        "nombre": "Miguel Pérez",
+        "telefono": "444-555-6666",
+        "correo": "miguel.perez@proveedora.com",
+        "calle": "Boulevard Principal 567",
+        "ciudad": "Ciudad Ejemplo",
+        "estado": "Estado Ejemplo",
+        "codigo_postal": "54321",
+        "rfc": "JKL123456MNO",
+        "registro_fiscal": "98765",
+        "regimen_fiscal": "Régimen General"
+    }    
+]
